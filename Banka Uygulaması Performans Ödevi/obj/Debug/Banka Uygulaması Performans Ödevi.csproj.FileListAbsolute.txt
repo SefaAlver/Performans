@@ -1,0 +1,8 @@
+C:\Users\SEFA\OneDrive\Masaüstü\İbirahim\Banka Uygulaması Performans Ödevi\Banka Uygulaması Performans Ödevi\bin\Debug\Banka Uygulaması Performans Ödevi.exe.config
+C:\Users\SEFA\OneDrive\Masaüstü\İbirahim\Banka Uygulaması Performans Ödevi\Banka Uygulaması Performans Ödevi\bin\Debug\Banka Uygulaması Performans Ödevi.exe
+C:\Users\SEFA\OneDrive\Masaüstü\İbirahim\Banka Uygulaması Performans Ödevi\Banka Uygulaması Performans Ödevi\bin\Debug\Banka Uygulaması Performans Ödevi.pdb
+C:\Users\SEFA\OneDrive\Masaüstü\İbirahim\Banka Uygulaması Performans Ödevi\Banka Uygulaması Performans Ödevi\obj\Debug\Banka Uygulaması Performans Ödevi.csproj.AssemblyReference.cache
+C:\Users\SEFA\OneDrive\Masaüstü\İbirahim\Banka Uygulaması Performans Ödevi\Banka Uygulaması Performans Ödevi\obj\Debug\Banka Uygulaması Performans Ödevi.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEFA\OneDrive\Masaüstü\İbirahim\Banka Uygulaması Performans Ödevi\Banka Uygulaması Performans Ödevi\obj\Debug\Banka Uygulaması Performans Ödevi.csproj.CoreCompileInputs.cache
+C:\Users\SEFA\OneDrive\Masaüstü\İbirahim\Banka Uygulaması Performans Ödevi\Banka Uygulaması Performans Ödevi\obj\Debug\Banka Uygulaması Performans Ödevi.exe
+C:\Users\SEFA\OneDrive\Masaüstü\İbirahim\Banka Uygulaması Performans Ödevi\Banka Uygulaması Performans Ödevi\obj\Debug\Banka Uygulaması Performans Ödevi.pdb
